@@ -5,6 +5,7 @@ using UnityEngine;
 public class CarriageMover : MonoBehaviour
 {
     public float speed;
+    public float xLimit;
 
     // Update is called once per frame
     private void Update()
@@ -15,6 +16,9 @@ public class CarriageMover : MonoBehaviour
     private void Move()
     {
         var value = Input.GetAxis("Horizontal");
-        transform.position += new Vector3(value * speed * Time.deltaTime, 0, 0);
+        var pos = transform.position;
+        var xMovement = value * speed * Time.deltaTime;
+        transform.position = new Vector3(Mathf.Clamp(pos.x + xMovement, -xLimit, xLimit),
+            pos.y, pos.z);
     }
 }
