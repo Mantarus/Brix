@@ -1,24 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class GameController : MonoBehaviour
 {
     public GameObject ballPrefab;
     public GameObject carriagePrefab;
-    public List<GameObject> bricks;
-    
+    public Text scoreText;
+
     public int lives = 3;
 
     private int _score = 0;
     private int _scoreMultiplier = 1;
 
-    private Text _scoreText;
+    private void Start()
+    {
+        scoreText.text = "SCORE: 0";
+    }
 
     public void UpdateScore()
     {
         _score += _scoreMultiplier;
+        scoreText.text = $"SCORE: {_score}";
     }
 
     public void UpdateAfterLose()
@@ -30,7 +32,7 @@ public class GameController : MonoBehaviour
         }
     }
 
-    public void GameOver()
+    private void GameOver()
     {
         Time.timeScale = 0;
     }

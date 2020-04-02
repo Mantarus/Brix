@@ -193,6 +193,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -361,6 +366,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -440,6 +450,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -549,6 +564,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -663,6 +683,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -742,6 +767,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -833,6 +863,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1164,6 +1199,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1243,6 +1283,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1328,6 +1373,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1407,6 +1457,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1492,6 +1547,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1571,6 +1631,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1716,6 +1781,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1825,6 +1895,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1904,6 +1979,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -1983,6 +2063,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2167,6 +2252,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2246,6 +2336,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2325,6 +2420,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2369,7 +2469,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ballPrefab: {fileID: 0}
   carriagePrefab: {fileID: 0}
-  bricks: []
+  scoreText: {fileID: 111462806}
   lives: 3
 --- !u!4 &805632296
 Transform:
@@ -2457,6 +2557,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2536,6 +2641,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2615,6 +2725,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2700,6 +2815,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2864,6 +2984,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -2943,6 +3068,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3028,6 +3158,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3107,6 +3242,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3186,6 +3326,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3289,6 +3434,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3368,6 +3518,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3540,6 +3695,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3625,6 +3785,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3704,6 +3869,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3845,6 +4015,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -3942,6 +4117,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -4126,6 +4306,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -4205,6 +4390,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -4284,6 +4474,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -4363,6 +4558,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -4538,6 +4738,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
@@ -4785,6 +4990,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: gameControllerObject
+      value: 
+      objectReference: {fileID: 805632294}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
