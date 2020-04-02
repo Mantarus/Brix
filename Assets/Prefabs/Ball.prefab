@@ -110,6 +110,7 @@ MonoBehaviour:
   initialSpeed: 5
   speedIncrement: 0.1
   minimalYSpeed: 0.5
+  gameControllerObject: {fileID: 0}
 --- !u!54 &164864964518960171
 Rigidbody:
   m_ObjectHideFlags: 0
