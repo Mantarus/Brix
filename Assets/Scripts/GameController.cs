@@ -6,15 +6,22 @@ public class GameController : MonoBehaviour
     public GameObject ballPrefab;
     public GameObject carriagePrefab;
     public Text scoreText;
+    public Text scoreMultiplierText;
+    public Text livesLeftText;
 
     public int lives = 3;
-
+    public int maxScoreMultiplier = 5;
+    
     private int _score = 0;
     private int _scoreMultiplier = 1;
+    private int _livesLeft;
 
     private void Start()
     {
-        scoreText.text = "SCORE: 0";
+        _livesLeft = lives;
+        scoreText.text = $"SCORE: {_score}";
+        scoreMultiplierText.text = $"x{_scoreMultiplier}";
+        livesLeftText.text = $"LIVES: {_livesLeft}";
     }
 
     public void UpdateScore()
@@ -25,8 +32,12 @@ public class GameController : MonoBehaviour
 
     public void UpdateAfterLose()
     {
-        lives--;
-        if (lives <= 0)
+        _livesLeft--;
+        livesLeftText.text = $"LIVES: {_livesLeft}";
+        _scoreMultiplier = 1;
+        scoreMultiplierText.text = $"x{_scoreMultiplier}";
+        
+        if (_livesLeft <= 0)
         {
             GameOver();
         }
@@ -35,6 +46,18 @@ public class GameController : MonoBehaviour
     private void GameOver()
     {
         Time.timeScale = 0;
+    }
+
+    public void IncreaseScoreMultiplier()
+    {
+        _scoreMultiplier = Mathf.Min(_scoreMultiplier + 1, maxScoreMultiplier);
+        scoreMultiplierText.text = $"x{_scoreMultiplier}";
+    }
+    
+    public void DecreaseScoreMultiplier()
+    {
+        _scoreMultiplier = Mathf.Max(_scoreMultiplier - 1, 1);
+        scoreMultiplierText.text = $"x{_scoreMultiplier}";
     }
 
 }

@@ -42,6 +42,11 @@ public class BallMover : MonoBehaviour
             
             _speed += speedIncrement;
             _rb.velocity = velocity.normalized * _speed;
+
+            if (collisionLayer == "Carriage")
+            {
+                _gameController.DecreaseScoreMultiplier();
+            }
         }
     }
 

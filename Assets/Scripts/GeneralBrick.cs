@@ -16,6 +16,9 @@ public class GeneralBrick : MonoBehaviour
     {
         if (LayerMask.LayerToName(other.gameObject.layer) == "Ball")
         {
+            _gameController.UpdateScore();
+            _gameController.IncreaseScoreMultiplier();
+            
             lives--;
             if (lives <= 0)
             {
@@ -26,7 +29,6 @@ public class GeneralBrick : MonoBehaviour
 
     private void DestroyBrick()
     {
-        _gameController.UpdateScore();
         Destroy(gameObject);
     }
 
