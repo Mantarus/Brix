@@ -8,6 +8,7 @@ public class GameController : MonoBehaviour
     public Text scoreText;
     public Text scoreMultiplierText;
     public Text livesLeftText;
+    public Text bricksLeftText;
 
     public int lives = 3;
     public int maxScoreMultiplier = 5;
@@ -15,6 +16,7 @@ public class GameController : MonoBehaviour
     private int _score = 0;
     private int _scoreMultiplier = 1;
     private int _livesLeft;
+    private int _brickCount = 0;
 
     private void Start()
     {
@@ -58,6 +60,23 @@ public class GameController : MonoBehaviour
     {
         _scoreMultiplier = Mathf.Max(_scoreMultiplier - 1, 1);
         scoreMultiplierText.text = $"x{_scoreMultiplier}";
+    }
+
+    public void IncreaseBrickCount()
+    {
+        _brickCount++;
+        bricksLeftText.text = $"LEFT: {_brickCount}";
+    }
+
+    public void DecreaseBrickCount()
+    {
+        _brickCount--;
+        bricksLeftText.text = $"LEFT: {_brickCount}";
+        
+        if (_brickCount <= 0)
+        {
+            GameOver();
+        }
     }
 
 }

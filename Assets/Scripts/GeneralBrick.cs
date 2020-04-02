@@ -10,6 +10,7 @@ public class GeneralBrick : MonoBehaviour
     private void Start()
     {
         _gameController = gameControllerObject.GetComponent<GameController>();
+        _gameController.IncreaseBrickCount();
     }
 
     private void OnCollisionExit(Collision other)
@@ -22,6 +23,7 @@ public class GeneralBrick : MonoBehaviour
             lives--;
             if (lives <= 0)
             {
+                _gameController.DecreaseBrickCount();
                 DestroyBrick();
             }
         }
