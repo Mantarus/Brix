@@ -209,10 +209,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -393,10 +408,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -488,10 +518,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -613,10 +658,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -743,10 +803,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -838,10 +913,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -945,10 +1035,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -966,7 +1071,7 @@ GameObject:
   - component: {fileID: 298076566}
   m_Layer: 9
   m_Name: LeftWall
-  m_TagString: Untagged
+  m_TagString: Environment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1057,7 +1162,7 @@ GameObject:
   - component: {fileID: 316927988}
   m_Layer: 12
   m_Name: FieldTrigger
-  m_TagString: Untagged
+  m_TagString: GameZone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1124,7 +1229,6 @@ MonoBehaviour:
   m_RequiresDepthTextureOption: 2
   m_RequiresOpaqueTextureOption: 2
   m_CameraType: 0
-  m_CameraOutput: 0
   m_Cameras: []
   m_RendererIndex: -1
   m_VolumeLayerMask:
@@ -1136,6 +1240,7 @@ MonoBehaviour:
   m_AntialiasingQuality: 2
   m_StopNaN: 0
   m_Dithering: 0
+  m_ClearDepth: 1
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
@@ -1292,10 +1397,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -1387,10 +1507,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -1488,10 +1623,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -1583,10 +1733,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -1684,10 +1849,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -1779,10 +1959,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -1940,10 +2135,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2065,10 +2275,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2160,10 +2385,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2255,10 +2495,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2458,10 +2713,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2553,10 +2823,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2648,10 +2933,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2671,6 +2971,9 @@ GameObject:
   m_Component:
   - component: {fileID: 805632296}
   - component: {fileID: 805632295}
+  - component: {fileID: 805632299}
+  - component: {fileID: 805632298}
+  - component: {fileID: 805632297}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -2690,14 +2993,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 775f9ead0cfb54dc789ed662e8ba08fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballPrefab: {fileID: 0}
-  carriagePrefab: {fileID: 0}
-  scoreText: {fileID: 111462806}
-  scoreMultiplierText: {fileID: 1572749034}
-  livesLeftText: {fileID: 1038566422}
-  bricksLeftText: {fileID: 2067603370}
+  brickCounter: {fileID: 805632299}
+  uiController: {fileID: 805632297}
+  scoreCounter: {fileID: 805632298}
   lives: 3
-  maxScoreMultiplier: 5
 --- !u!4 &805632296
 Transform:
   m_ObjectHideFlags: 0
@@ -2712,6 +3011,50 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &805632297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805632294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1780a6f997fc24eea9e17734af3da141, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 111462806}
+  scoreMultiplierText: {fileID: 1572749034}
+  livesText: {fileID: 1038566422}
+  bricksLeftText: {fileID: 2067603370}
+--- !u!114 &805632298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805632294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61c3a7673e78245cc91fc8a83b576775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxScoreMultiplier: 5
+  uiController: {fileID: 805632297}
+--- !u!114 &805632299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805632294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09f71bee37f7b47f7b62f808a2f62650, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameController: {fileID: 805632295}
+  uiController: {fileID: 805632297}
 --- !u!1001 &892964015
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2800,10 +3143,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2895,10 +3253,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -2990,10 +3363,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3091,10 +3479,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3348,10 +3751,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3443,10 +3861,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3544,10 +3977,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3639,10 +4087,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3734,10 +4197,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3853,10 +4331,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3948,10 +4441,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -3969,7 +4477,7 @@ GameObject:
   - component: {fileID: 1259677187}
   m_Layer: 9
   m_Name: TopWall
-  m_TagString: Untagged
+  m_TagString: Environment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4136,10 +4644,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -4237,10 +4760,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -4332,10 +4870,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -4566,10 +5119,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -4679,10 +5247,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -4712,7 +5295,7 @@ GameObject:
   - component: {fileID: 1774439050}
   m_Layer: 9
   m_Name: RightWall
-  m_TagString: Untagged
+  m_TagString: Environment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4879,10 +5462,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -4974,10 +5572,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -5069,10 +5682,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -5164,10 +5792,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -5355,10 +5998,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -5555,10 +6213,30 @@ PrefabInstance:
       propertyPath: gameControllerObject
       value: 
       objectReference: {fileID: 805632294}
+    - target: {fileID: 164864964518960170, guid: 65de7382be2e94d89a09abb3cf196fea,
+        type: 3}
+      propertyPath: gameController
+      value: 
+      objectReference: {fileID: 805632295}
+    - target: {fileID: 164864964518960170, guid: 65de7382be2e94d89a09abb3cf196fea,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
     - target: {fileID: 164864964518960176, guid: 65de7382be2e94d89a09abb3cf196fea,
         type: 3}
       propertyPath: m_Name
       value: Ball
+      objectReference: {fileID: 0}
+    - target: {fileID: 164864964518960176, guid: 65de7382be2e94d89a09abb3cf196fea,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ball
+      objectReference: {fileID: 0}
+    - target: {fileID: 164864964518960176, guid: 65de7382be2e94d89a09abb3cf196fea,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 164864964518960180, guid: 65de7382be2e94d89a09abb3cf196fea,
         type: 3}
@@ -5695,10 +6373,25 @@ PrefabInstance:
       propertyPath: bonusSpawnChance
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: scoreCounter
+      value: 
+      objectReference: {fileID: 805632298}
+    - target: {fileID: 1420915396270149517, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: brickCounter
+      value: 
+      objectReference: {fileID: 805632299}
     - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
         type: 3}
       propertyPath: m_Name
       value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420915396270149526, guid: fef99bef4b87c4e6d8519b16e0c893e8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fef99bef4b87c4e6d8519b16e0c893e8, type: 3}
@@ -5772,6 +6465,11 @@ PrefabInstance:
     - target: {fileID: 6867941370087974229, guid: cdf7105a0971e48e7b83072f3fac2698,
         type: 3}
       propertyPath: m_Name
+      value: Carriage
+      objectReference: {fileID: 0}
+    - target: {fileID: 6867941370087974229, guid: cdf7105a0971e48e7b83072f3fac2698,
+        type: 3}
+      propertyPath: m_TagString
       value: Carriage
       objectReference: {fileID: 0}
     m_RemovedComponents: []

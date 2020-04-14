@@ -7,7 +7,8 @@ public class BallMover : MonoBehaviour
     public float speedIncrement;
     public float minimalYSpeed = 0.5f;
     public GameController gameController;
-    
+    public ScoreCounter scoreCounter;
+
     private Rigidbody _rb;
     private float _speed;
     private Vector3 _initialPosition;
@@ -31,11 +32,7 @@ public class BallMover : MonoBehaviour
         if (processedTags.Contains(collisionTag))
         {
             ProcessBounce();
-
-            if (collisionTag == "Carriage")
-            {
-                gameController.DecreaseScoreMultiplier();
-            }
+            if (collisionTag == "Carriage") scoreCounter.DecreaseMultiplier();
         }
     }
 

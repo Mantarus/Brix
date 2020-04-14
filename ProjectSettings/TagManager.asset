@@ -9,6 +9,8 @@ TagManager:
   - Brick
   - Environment
   - Hazard
+  - Carriage
+  - GameZone
   layers:
   - Default
   - TransparentFX
