@@ -19,17 +19,13 @@ public class GeneralBrick : MonoBehaviour
 
     private void OnCollisionExit(Collision other)
     {
-        if (other.gameObject.CompareTag("Ball"))
-        {
-            scoreCounter.AddScore();
-            scoreCounter.IncreaseMultiplier();
+        if (!other.gameObject.CompareTag("Ball")) return;
+        
+        scoreCounter.AddScore();
+        scoreCounter.IncreaseMultiplier();
             
-            lives--;
-            if (lives <= 0)
-            {
-                DestroyBrick();
-            }
-        }
+        lives--;
+        if (lives <= 0) DestroyBrick();
     }
 
     private void SetupBonus()

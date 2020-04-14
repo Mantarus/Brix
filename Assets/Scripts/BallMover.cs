@@ -51,7 +51,7 @@ public class BallMover : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (LayerMask.NameToLayer("Level") == other.gameObject.layer)
+        if (other.gameObject.CompareTag("GameZone"))
         {
             gameController.UpdateAfterLose();
             

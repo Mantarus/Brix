@@ -9,7 +9,7 @@ public class BonusMover : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (LayerMask.NameToLayer("Level") == other.gameObject.layer)
+        if (other.gameObject.CompareTag("GameZone"))
         {
             gameObject.SetActive(false);
         }
